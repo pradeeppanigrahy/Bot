@@ -1,0 +1,23 @@
+{
+  "name": "botinnodejs",
+  "version": "1.0.0",
+  "description": "First Bot Using NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeeppanigrahy/Bot.git"
+  },
+  "author": "Pradeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeeppanigrahy/Bot/issues"
+  },
+  "homepage": "https://github.com/pradeeppanigrahy/Bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
+  }
+}
